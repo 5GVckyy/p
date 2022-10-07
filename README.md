@@ -1,4 +1,5 @@
-# Starting November 28, 2022, free Heroku Dynos, Redis and PostgreSQL will no longer be available
+# Heroku News 
+Starting November 28, 2022, free Heroku Dynos, Redis and PostgreSQL will no longer be available
 > https://blog.heroku.com/next-chapter
 
 > Since then this repository is archived. Get [Github Developers student pack](https://education.github.com/pack) if you're looking for free hosting and other services.
