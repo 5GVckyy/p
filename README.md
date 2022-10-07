@@ -30,6 +30,5 @@ heroku ps:stop example # stop bot dyno
 # Credits
 * [@rencprx](https://t.me/rencprx)
 * [docs@heroku](https://elements.heroku.com/)
-
-# Copyright (C) 2020-2022
 * [TeamKillerX@Github](https://github.com/TeamKillerX)
+* Copyright (C) 2020-2022
