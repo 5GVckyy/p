@@ -1,0 +1,12 @@
+{
+    "name": "example-app",
+    "description": "",
+    "logo": "",
+    "keywords": [
+    "python3",
+    "example-app"
+    ],
+    "stack": "heroku",
+    "env": {
+
+# link https://devcenter.heroku.com/articles/app-json-schema
